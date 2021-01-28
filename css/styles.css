@@ -30,6 +30,9 @@ body{
 .list{
 	float: left;
 	margin-right: 31px;
+}
+.l{
+	color: #3D58A6;
 	font-size: 24px;
 	font-family: 'Roboto r';
 }
